@@ -9,7 +9,6 @@ void main(){
      1 :  'pikachu/front.png',
      2 :  'Pikachu/back.png',
     }
-    
   };
   
   print(pokemon);

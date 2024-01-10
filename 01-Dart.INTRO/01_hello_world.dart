@@ -4,7 +4,6 @@ void main(){
 //   String myName = 'Josue';
   const myName = 'Josue';
   
-  
   print('Hello $myName');
   print('hello ${myName.toUpperCase()}');
   

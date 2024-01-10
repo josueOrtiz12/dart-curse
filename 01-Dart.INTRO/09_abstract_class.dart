@@ -8,7 +8,6 @@ void main(){
   print('Wind: ${changePhone (windPlant)}' );
    print('Nuclear: ${changePhone (nuclearPlant)}' );
   
-  
 
 }
 

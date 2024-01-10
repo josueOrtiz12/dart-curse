@@ -17,8 +17,6 @@ void main(){
 }
 
 
-
-
  class Hero{
     String name;
     String power;
